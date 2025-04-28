@@ -1,8 +1,8 @@
-Of course! Here's a **README.md** file written in **GitHub Markdown** (raw) format for your AI Chatbot project:
+
 
 ---
 
-# AI Chatbot in Python
+# Sophia AI Chatbot in Python
 
 Welcome to my **AI Chatbot** project!  
 This chatbot is built using **Python** and several libraries like **NLTK**, **BeautifulSoup**, and **Requests**.  
@@ -28,8 +28,8 @@ It can chat, solve math problems, remember facts about you, tell jokes, manage r
 ## Setup Instructions
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/y
-   cd your-repo-name
+   git clone https://github.com/Darkhero766/Sophia-1.0-chatbot-
+   cd Sophia-1.0-chatbot-
    ```
 
 2. **Install required libraries**
@@ -96,6 +96,3 @@ This project is free to use for learning and personal projects.
 
 ---
 
-Would you also like me to create a **fancy GitHub badge section** (like Python version, Stars, etc.) at the top of the README?  
-It'll make it look more professional!  
-(Just say **"yes"** if you want it!)
